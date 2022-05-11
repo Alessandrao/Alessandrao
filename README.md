@@ -9,5 +9,6 @@
 
 - Alura: [Alura](https://www.alura.com.br)
 - JavaScript: [JavaScript](https://editor.p5js.org/)
+- Scratch: [Scratch](https://scratch.mit.edu/)
 
 
