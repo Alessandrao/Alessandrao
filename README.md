@@ -1,7 +1,7 @@
 # Sobre mim
 
 - 👋 Me chamo **@Alessandrao**
-- 💬 Email para contato:(alessandro.janissetti@escola.pr.gov.br)
+- 💬 Email para contato: alessandro.janissetti@escola.pr.gov.br
 - 👀 Estou interessado a melhorar minha experiência na área da Programação
 - 🌱 Aprendendo e aprimorando minhas experiências no **JavaScrip** e **Scratch**
 
